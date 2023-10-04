@@ -1,4 +1,4 @@
-package com.development.staticmembers;
+package development.staticmembers;
 // can i initialise a static variable from a static block .
 public class Program8 {
     static int b=15;

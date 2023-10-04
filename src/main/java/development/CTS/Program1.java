@@ -1,4 +1,4 @@
-package com.development.CTS;
+package development.CTS;
 
 public class Program1 {
     public static void main(String[] args) {

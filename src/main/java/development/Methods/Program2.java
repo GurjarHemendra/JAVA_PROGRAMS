@@ -1,4 +1,4 @@
-package com.development.Methods;
+package development.Methods;
 
 public class Program2
 {

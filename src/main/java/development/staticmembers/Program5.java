@@ -1,4 +1,4 @@
-package com.development.staticmembers;
+package development.staticmembers;
 
 /* how to call the static methods */
 public class Program5 {

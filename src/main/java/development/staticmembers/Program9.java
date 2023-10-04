@@ -1,4 +1,4 @@
-package com.development.staticmembers;
+package development.staticmembers;
 // can i call a static method from a static block
 public class Program9 {
 

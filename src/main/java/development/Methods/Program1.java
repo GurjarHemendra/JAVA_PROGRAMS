@@ -1,4 +1,4 @@
-package com.development.Methods;
+package development.Methods;
 
 //how to create our own methods
 

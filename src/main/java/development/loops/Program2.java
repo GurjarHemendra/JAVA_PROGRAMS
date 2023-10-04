@@ -1,4 +1,4 @@
-package com.development.loops;
+package development.loops;
 
 public class Program2 {
     public static void main(String[] args) {

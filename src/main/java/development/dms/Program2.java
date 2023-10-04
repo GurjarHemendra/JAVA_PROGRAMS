@@ -1,4 +1,4 @@
-package com.development.dms;
+package development.dms;
 
 public  class Program2 {
     //   if else if / else if ladder

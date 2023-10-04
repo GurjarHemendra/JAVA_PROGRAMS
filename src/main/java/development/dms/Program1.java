@@ -1,4 +1,4 @@
-package com.development.dms;
+package development.dms;
 
 public class Program1 {
     // check where no is even or odd by learning DMS

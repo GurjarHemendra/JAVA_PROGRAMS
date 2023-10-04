@@ -1,4 +1,4 @@
-package com.development.staticmembers;
+package development.staticmembers;
 
 public class Program1 {
      static int a=10 ; // static variable

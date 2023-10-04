@@ -1,4 +1,4 @@
-package com.development.basic;
+package development.basic;
 
 public class Program7 {
 

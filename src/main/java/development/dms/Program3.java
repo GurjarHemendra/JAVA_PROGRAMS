@@ -1,4 +1,4 @@
-package com.development.dms;
+package development.dms;
 
 public class Program3 {
     public static void main(String[] args) {

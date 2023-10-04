@@ -1,4 +1,4 @@
-package com.development.staticmembers;
+package development.staticmembers;
 
 public class Program7 {
     static int a;

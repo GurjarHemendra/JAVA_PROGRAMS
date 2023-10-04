@@ -1,4 +1,4 @@
-package com.development.Methods;
+package development.Methods;
 // Method overloading : when a class consist of more than one method with same name and different argument.
 
 public class Program4 {
