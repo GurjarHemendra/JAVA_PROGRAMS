@@ -5,33 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0782921-1c5e-42e7-9146-d827c97affda" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/development/CTS/Program1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/development/CTS/Program1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/development/Methods/Program1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/development/Methods/Program1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/development/Methods/Program2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/development/Methods/Program2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/development/Methods/Program3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/development/Methods/Program3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/development/Methods/Program4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/development/Methods/Program4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/development/basic/Program1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/development/basic/Program1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/development/basic/Program2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/development/basic/Program2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/development/basic/Program3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/development/basic/Program3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/development/basic/Program4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/development/basic/Program4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/development/basic/Program5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/development/basic/Program5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/development/basic/Program6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/development/basic/Program6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/development/basic/Program7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/development/basic/Program7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/development/dms/Program1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/development/dms/Program1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/development/dms/Program2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/development/dms/Program2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/development/dms/Program3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/development/dms/Program3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/development/loops/Program1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/development/loops/Program1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/development/loops/Program2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/development/loops/Program2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/development/loops/Program3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/development/loops/Program3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/development/staticmembers/Program1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/development/staticmembers/Program1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/development/staticmembers/Program2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/development/staticmembers/Program2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/development/staticmembers/Program3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/development/staticmembers/Program3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/development/staticmembers/Program4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/development/staticmembers/Program4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/development/staticmembers/Program5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/development/staticmembers/Program5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/development/staticmembers/Program6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/development/staticmembers/Program6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/development/staticmembers/Program7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/development/staticmembers/Program7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/development/staticmembers/Program8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/development/staticmembers/Program8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/development/staticmembers/Program9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/development/staticmembers/Program9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/development/NonStaticMembers/Program1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/development/NonStaticMembers/Program2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/development/NonStaticMembers/Program3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +21,18 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2WJ70v0AGjdcMUkpoVgHI025IGM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -52,11 +40,11 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "last_opened_file_path": "F:/Batch_01/JAVA_SESSIONS/src/main/java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;last_opened_file_path&quot;: &quot;F:/Batch_01/JAVA_SESSIONS/src/main/java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Batch_01\JAVA_SESSIONS\src\main\java" />
