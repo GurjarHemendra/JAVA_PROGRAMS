@@ -5,10 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0782921-1c5e-42e7-9146-d827c97affda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/development/NonStaticMembers/Program1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/development/NonStaticMembers/Program2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/development/NonStaticMembers/Program3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/development/Constructor/Program1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/development/Constructor/Program2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/development/Constructor/Program3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/development/Constructor/Program4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/development/Constructor/Program5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/development/Constructor/Program6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/development/Constructor/Program8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/development/Constructor/Project7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +41,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2WJ70v0AGjdcMUkpoVgHI025IGM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -42,13 +52,50 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;last_opened_file_path&quot;: &quot;F:/Batch_01/JAVA_SESSIONS/src/main/java&quot;
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/JavaBatch01/JAVA_PROGRAMS&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Batch_01\JAVA_SESSIONS\src\main\java" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Program3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="development.Constructor.Program3" />
+      <module name="JAVA_SESSIONS.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="development.Constructor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="development.Constructor.Program4" />
+      <module name="JAVA_SESSIONS.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="development.Constructor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Program3" />
+        <item itemvalue="Application.Program4" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
