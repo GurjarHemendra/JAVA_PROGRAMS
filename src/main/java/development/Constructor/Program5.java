@@ -36,6 +36,7 @@ public class Program5 {
 *   5. method overloading vs constructor overloading
 *
 * question : WAP that includes all static members and all ns members and get tthe trace of the program
+* question : Can we create object of one class into
 *
 *
 *
