@@ -5,18 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0782921-1c5e-42e7-9146-d827c97affda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/development/Constructor/Program1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/development/Constructor/Program2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/development/Constructor/Program3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/development/Constructor/Program4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/development/Constructor/Program5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/development/Constructor/Program6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/development/Constructor/Program8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/development/Constructor/Project7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment_Question/Assignment11.10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/development/Constructor/Program9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/development/Constructor/Progrma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/development/encapsulation/Driver1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/development/encapsulation/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Assignment_Question/Assignment10.10" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignment_Question/Assignment10.10" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +58,7 @@
       <recent name="F:\Batch_01\JAVA_SESSIONS\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Program3">
+  <component name="RunManager">
     <configuration name="Program3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="development.Constructor.Program3" />
       <module name="JAVA_SESSIONS.main" />

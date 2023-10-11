@@ -1,0 +1,12 @@
+1. WAP to access the nonstatic variable from the non static block .
+2. Write atleast 5 real time object and try to figure out 5 properties and 3 behaviour
+   amd try to convert it in class
+3. WAP to create a bookstore which consist of a class name as book , having 3 properties
+
+   properties :
+         1. Book Id
+         2. Book Price
+         3. Book discount code
+
+ I want restriction on the book price as well as book discount code and try to 3 books
+ and print the details of all books  in the bookstore.
