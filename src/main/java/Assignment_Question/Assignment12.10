@@ -1,0 +1,4 @@
+1) Create non static member in parent and child and
+try to acheive the inheritance using extends keyword
+2) try to create 2 static variable and 1 non static and static block
+in parent as well as in child and trace the program

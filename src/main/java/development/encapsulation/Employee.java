@@ -9,13 +9,11 @@ public class Employee {
     {
         return esal;
     }
-
     // setter method
     public void setEsal(double newSal)
     {
         this.esal=newSal;
     }
-
     Employee(String name , String id , double sal)
     {
         this.ename=name;
@@ -23,7 +21,6 @@ public class Employee {
         this.esal=sal;
 
     }
-
     public void details()
     {
         System.out.println("Employee name is "+this.ename);
