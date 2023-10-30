@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0782921-1c5e-42e7-9146-d827c97affda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/development/Abstaction/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/development/Abstaction/Program2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/development/Interface/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/development/Interface/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/development/Interface/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/development/Interface/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/development/Interface/Dimpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Assignment_Question/Assignment16.10" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignment_Question/Assignment16.10" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +37,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
