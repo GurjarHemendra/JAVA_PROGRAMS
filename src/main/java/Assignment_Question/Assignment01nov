@@ -1,0 +1,7 @@
+1. write a program to generate hashcode for 5 books ,
+   to generate hashcode bookid+mobile no. last 4 digit
+
+  2. compare the member of 2 object by overriding equals method
+
+
+  sent 10:30

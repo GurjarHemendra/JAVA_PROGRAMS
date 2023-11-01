@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0782921-1c5e-42e7-9146-d827c97affda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Programming/ArrayProgram1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Programming/ArrayProgram2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment_Question/Assignment01nov" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/development/Object/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/development/Object/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/development/Object/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/development/Object/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,15 +57,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/JavaBatch01/JAVA_PROGRAMS"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/JavaBatch01/JAVA_PROGRAMS&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Batch_01\JAVA_SESSIONS\src\main\java" />
