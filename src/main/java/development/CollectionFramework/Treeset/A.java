@@ -1,5 +1,6 @@
 package development.CollectionFramework.Treeset;
 
+import java.util.HashMap;
 import java.util.TreeSet;
 
 public class A {
@@ -10,5 +11,8 @@ public class A {
         obj.add(2);
         obj.add(3);
         System.out.println(obj);
+
+
+
+        }
     }
-}
