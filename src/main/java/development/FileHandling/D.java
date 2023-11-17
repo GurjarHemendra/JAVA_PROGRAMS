@@ -18,3 +18,13 @@ public class D {
         System.out.println(c);
     }
 }
+
+
+// garbage
+// multithreading
+// basic ->
+// basic of spring
+// jdbc
+// rest api
+
+// ===ORM=====
