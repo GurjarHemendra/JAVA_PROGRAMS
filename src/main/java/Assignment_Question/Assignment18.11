@@ -1,0 +1,8 @@
+> Create a game of 4 player where every player get a chance to play and every player has 10 chance to play the games
+and also try to setpriority of the player as 1st player play first, second player plays second and so on .
+
+> run() vs start()
+
+> user thread vs Deamon thread
+
+> final vs finally vs finalize
